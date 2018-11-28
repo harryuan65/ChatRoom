@@ -1,0 +1,80 @@
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe.config
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\bin\Debug\ChatRoom.pdb
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\obj\Debug\ChatRoom.exe
+c:\users\harry\documents\visual studio 2015\Projects\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\測試Socket圖片傳送\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+C:\Users\Harry\Desktop\ChatRoom - 複製\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\Harry\Desktop\ChatRoom - 複製\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\Harry\Desktop\ChatRoom - 複製\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\Harry\Desktop\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+C:\Users\Harry\Desktop\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\Harry\Desktop\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+C:\Users\Harry\Desktop\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\Harry\Desktop\ChatRoom - 複製\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\Harry\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\test\Desktop\ChatRoom - 複製 - 複製 - 複製\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\test\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.Cache
+C:\Users\Harry\Desktop\410485047聊天室_資工二_袁浩\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
