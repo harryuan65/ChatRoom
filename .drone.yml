@@ -1,7 +1,8 @@
 kind: pipeline
-type: docker
+type: exec
 name: default
 steps:
 - name: greeting
+  image: alpine:3.7
   commands:
   - echo hello world
